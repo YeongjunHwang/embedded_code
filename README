@@ -1,12 +1,1 @@
 Embedded Codes
-2017 mid
-
-4. makefile
-5. 양의 정수 T를 받아서 usr3_LED가 T밀리초 켜지고 T동안 꺼지는것
-6. cd만들기
-7. mmap 시스템 호출... 10바이트 읽어 화면에 출력하는거
-
-2017 fin
-2. test_callback
-3. mykitty
-4. mymisc - 하난의 문자를 쓰고 읽는 기능
